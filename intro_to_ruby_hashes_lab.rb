@@ -1,9 +1,10 @@
 def new_hash
   hash = {}
+  hash
 end
 
 def actor
-
+  
 end
 
 def monopoly
